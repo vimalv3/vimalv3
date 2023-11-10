@@ -1,7 +1,7 @@
 # COVID VACCINES ANALYSIS
 <hr>
 <h2>Indrotuction</h2>
-<p ><img src="" height="500px"></p>
+<p ><img src="https://github.com/vimalv3/vimalv3/blob/main/output/brano-QSuou3VAtf4-unsplash.jpg" height="500px"></p>
 <p style="text-indent:90px"> Covid - 19 making a big change in this world.Daily day work at office also critical on that situations.Vaccines and Human kind is our 
   only to recover from the lose.In my Project make an analysis on the vaccine data on the all over world to make good decisions in the
    vaccine distributions and its adverse effect.Forcasting the daily vaccination growth and train model to find the total vaccintion inthe 
@@ -36,17 +36,17 @@
 <h2>Visualizations</h2>
 <h3>covid vaccinations dataset</h3>
 <h4><b>Country wise total vaccinations</b></h4>
-<img src="" alt="png">
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/total%20vaccination.png" alt="png">
 <h4>Vaccine group total vaccinations</h4>
-<img src="" alt="png">
-<h4>Vaccine groups and number countries used</h4>
-<img src="" alt="png">
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/total%20vaccinations%20of%20the%20vaccines%20groups.png" alt="png">
+<h4>Vaccine groups and number of countries used</h4>
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/number%20of%20countreis%20used%20vaccine%20groups.png" alt="png">
 <h3>covid vaccinations by manufactures</h3>
 <h4>Locations total vaccination</h4>
-<img src="" alt="png">
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/locations.png" alt="png">
 <h4>Vaccines and Number of countries used it</h4>
-<img src="" alt="png">
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/vaccines%20country%20count.png" alt="png">
 <h4>Time series forcasting on the daily vaccinations</h4>
-<img src="" alt="png">
+<img src="https://github.com/vimalv3/vimalv3/blob/main/output/newplot.png" alt="png">
 
 
